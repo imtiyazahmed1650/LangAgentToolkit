@@ -16,4 +16,4 @@ By combining these technologies, the toolkit simplifies the process of creating,
 
 
 
-![Architecture Diagram](agent_architecture (1).png)
+![Architecture Diagram](https://github.com/imtiyazahmed1650/LangAgentToolkit/blob/b00370708cca7842fd7e25439b04f0c8768bd177/agent_architecture%20(1).png)
