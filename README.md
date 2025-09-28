@@ -1,7 +1,3 @@
-Absolutely! Here’s a single-section, well-formatted, and polished description with bold highlights ready for your README:
-
----
-
 ## Project Description
 
 **This repository provides a complete and scalable toolkit for building, deploying, and interacting with AI agents using the powerful LangGraph framework, combined with FastAPI and Streamlit.** It offers an **end-to-end solution** covering everything from agent creation to a user-friendly chat interface, designed to accelerate your AI development workflow.
@@ -18,6 +14,6 @@ This project is ideal for developers, data scientists, and researchers who want 
 
 By combining these technologies, the toolkit simplifies the process of creating, running, and interacting with LangGraph-powered AI agents—making it easier than ever to prototype, deploy, and demo intelligent language-based applications.
 
----
 
-If you want, I can help you add installation or usage instructions next!
+
+![Architecture Diagram](agent_architecture (1).png)
